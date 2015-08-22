@@ -1,6 +1,5 @@
 - Comedor -> Subir
 - Ingles -> Tarea
-
 Descripción de una ciudad: 
 
 Introducción: 
