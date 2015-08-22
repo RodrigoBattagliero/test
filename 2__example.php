@@ -1,5 +1,6 @@
 <?php 
 require_once 'Model.php';
+require_once 'Model2.php';
 
 class UsersModel extends Model {
 
