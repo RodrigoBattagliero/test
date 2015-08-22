@@ -8,4 +8,5 @@ class UsersModel extends Model {
 	}
 }
 
+Agregado en rama 2
 ?>
