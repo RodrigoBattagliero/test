@@ -7,4 +7,10 @@ class UsersModel extends Model {
 		Agregue en rama "Fixhot"
 	}
 }
+<<<<<<< HEAD
+=======
+
+Agregado en rama 2
+Algo más
+>>>>>>> rama1
 ?>
