@@ -5,10 +5,7 @@ require_once 'Model2.php';
 class UsersModel extends Model {
 
 	public function __construct(){
-		Agregue en rama "Fixhot"
+		Agregue en rama "Rama 3"
 	}
 }
-
-Agregado en rama 2
-Algo más
 ?>
